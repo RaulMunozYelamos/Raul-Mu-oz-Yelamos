@@ -1,19 +1,22 @@
-ukhcdAUFHJRQLJKJERLKERB
-WVSBDWGR
-FVBGR
+Este texto es una introducción a GitHub y abarca los siguientes temas:
 
-BDC
-SV
-RGBWN
-RGF
-DVFB 
-GRBT
-BN
+Objetivo del curso: Proporcionar una breve introducción a GitHub, con materiales adicionales para el aprendizaje y consejos para comenzar en la plataforma.
 
-ETNRTS
-FB
+Git y GitHub: Git es un Sistema de Control de Versiones distribuido que permite realizar un seguimiento fácil de los cambios en el código. GitHub proporciona una interfaz en línea para aprovechar el poder de Git, facilitando la colaboración y el mantenimiento del historial de proyectos.
 
-ESRE
-REN
-R
-GTDF
+Flujo de trabajo en GitHub: Se describe el flujo de trabajo ligero de GitHub, que permite experimentar y colaborar en proyectos sin riesgo de perder trabajo anterior.
+
+Términos clave de GitHub:
+
+Repositorios: Carpeta del proyecto que contiene todos los archivos y la historia de revisión.
+Clonar: Crear una copia local de un repositorio remoto.
+Compromisos y envíos: Añadir cambios locales al repositorio remoto en GitHub.
+Ramas: Isolar trabajos para desarrollar funciones o experimentar de manera segura.
+Forks: Copiar un repositorio, útil para contribuir a proyectos ajenos.
+Solicitudes de extracción: Informar a otros sobre cambios propuestos y recibir comentarios.
+Temas: Realizar un seguimiento de mejoras, tareas o errores en GitHub.
+Perfil de usuario: Página que muestra el trabajo, contribuciones y conversaciones del usuario.
+Markdown en GitHub: Utilizar sintaxis sencilla para dar estilo a problemas, solicitudes y archivos.
+Interacción con la comunidad de GitHub: Se mencionan tres formas de participar en la comunidad de GitHub, como marcar repositorios interesantes, seguir a otros usuarios y explorar proyectos a través de GitHub Explore.
+
+En resumen, el texto proporciona una visión general de GitHub, desde conceptos básicos hasta términos clave y prácticas comunes en la plataforma.
